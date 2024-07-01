@@ -38,7 +38,7 @@ Introduction
 
 ​	 Let's talk about the main functions. Firstly, we used a function called fitnlm to perform a fitting, which is actually the response surface when disassembled. Then comes the adaptive non dominated sorting genetic algorithm. Adaptation means that the crossover rate and mutation rate will change based on the individual's y-value (or fitness) to avoid getting stuck in local optima. Non dominance means comparing multiple objectives between individuals to form a dominance relationship and then ranking them.
 
-​	The original data is in the Excel folder
+​	The original data is in the Excel
 
 
 
